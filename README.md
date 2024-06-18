@@ -1,6 +1,6 @@
 - 👋 Hiyaa, I’m Jen
 - 👀 I’m interested in biotech, fashion and literature
-- 🌱 I’m currently learning creative writing and postmodernist art
+- 🌱 I’m currently learning creative writing and postmodernist philosophy
 - 💞️ I’m looking to collaborate on any beginner-friendly projects
 - 📫 How to reach me - jenrome36@gmail.com
 - 😄 Pronouns: she/her
