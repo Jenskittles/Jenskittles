@@ -1,10 +1,10 @@
 - 👋 Hiyaa, I’m Jen
 - 👀 I’m interested in biotech, fashion and literature
 - 🌱 I’m currently learning creative writing and postmodernist philosophy
-- 💞️ I’m looking to collaborate on any beginner-friendly projects
+- 💞️ I’m looking to collaborate on any beginner-friendly python projects 
 - 📫 How to reach me - jenrome36@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i am a gemini
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: i am a Gemini
 
 <!---
 Jenskittles/Jenskittles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
