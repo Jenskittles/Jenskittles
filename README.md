@@ -1,4 +1,4 @@
-- 👋 Hiyaa, I’m @Jenskittles
+- 👋 Hiyaa, I’m Jen
 - 👀 I’m interested in biotech, fashion and literature
 - 🌱 I’m currently learning creative writing and postmodernist art
 - 💞️ I’m looking to collaborate on any beginner-friendly projects
