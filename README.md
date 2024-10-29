@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any beginner-friendly python projects 
 - 📫 How to reach me - jenrome36@gmail.com
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: i am a Gemini
+- ⚡ Fun fact: i am a Gemini sun Taurus moon 
 
 <!---
 Jenskittles/Jenskittles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
